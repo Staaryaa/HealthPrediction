@@ -1,0 +1,10 @@
+pandas
+numpy<2.0.0
+scikit-learn
+tensorflow==2.15.0
+keras==2.15.0
+seaborn
+matplotlib
+streamlit>=1.35.0
+protobuf==3.20.3
+altair==5.3.0
